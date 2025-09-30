@@ -1,0 +1,47 @@
+
+
+ /* nabs */
+/* index.css */
+@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&display=swap');
+@import "tailwindcss";
+
+
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, .nold {
+  font-family: 'Poppins', sans-serif;
+}
+
+.font-gloock {
+  font-family: 'Gloock', serif;
+}
+
+.font-outfit {
+  font-family: 'Outfit', sans-serif;
+}
+
+body {
+  background-color: #FFFAEA;
+}
+
+/* nabs */
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, .nold {
+  font-family: 'Poppins', sans-serif;
+}
+
+.font-caprasimo {
+  font-family: 'Gloock', serif;
+}
+
+.font-onest {
+  font-family: 'Outfit', sans-serif;
+}
